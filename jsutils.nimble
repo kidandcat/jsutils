@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.2.1"
+version       = "0.2.2"
 author        = "Jairo"
 description   = "Utils to work with javascript"
 license       = "MIT"
